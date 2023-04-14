@@ -1,0 +1,15 @@
+.container .maincontainer {
+    /* background-image: url('https://drscdn.500px.org/photo/11834033/m%3D900/v2?sig=1eb0528c80adb0123618f318d7542d7106da406fdadd86f61684a72bc3f55479'); */
+    background-color: rgb(207, 188, 164);
+    border-radius: 10px;
+    border: 2px solid rgb(227, 187, 187);
+}
+.container {
+    margin: 20px;
+    padding: 25px;
+}
+
+.jumbotron{
+    margin: 10px;
+    padding: 15px;
+}
